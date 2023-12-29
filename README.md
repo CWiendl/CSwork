@@ -1,2 +1,2 @@
 # CSwork
-Work down as a CS Major
+Work done as a CS Major
